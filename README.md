@@ -114,7 +114,7 @@ OK upload de sonic.webm concluido
 
 O arquivo será salvo em `servidor/arquivos/sonic.webm`. 
 
-### 4. Liste os arquivos (LIST)
+#### 5. Liste os arquivos (LIST)
 
 ```text
 > LIST
@@ -122,7 +122,7 @@ O arquivo será salvo em `servidor/arquivos/sonic.webm`.
 
 O cliente mostrará o nome, o tamanho em bytes, a data de modificação e o endereço da conexão do cliente que solicitou a listagem.
 
-### 5. Baixe um arquivo (DOWNLOAD)
+#### 6. Baixe um arquivo (DOWNLOAD)
 
 ```text
 > DOWNLOAD sonic.webm
@@ -130,7 +130,7 @@ O cliente mostrará o nome, o tamanho em bytes, a data de modificação e o ende
 
 O arquivo será salvo na pasta de onde você executou o cliente.
 
-### 6. Encerre a conexão
+### 7. Encerre a conexão
 
 ```text
 > EXIT
