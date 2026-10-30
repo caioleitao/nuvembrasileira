@@ -130,7 +130,7 @@ O cliente mostrará o nome, o tamanho em bytes, a data de modificação e o ende
 
 O arquivo será salvo na pasta de onde você executou o cliente.
 
-### 7. Encerre a conexão
+#### 7. Encerre a conexão
 
 ```text
 > EXIT
